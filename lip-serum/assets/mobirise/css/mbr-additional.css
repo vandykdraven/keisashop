@@ -1199,6 +1199,43 @@ a {
 .cid-sNzVUIZBWb .mbr-text {
   text-align: center;
 }
+.cid-sNA7uLhphz {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  background-color: #fafafa;
+}
+.cid-sNA7uLhphz .oldcost {
+  text-decoration: line-through;
+  color: #353535;
+  text-align: center;
+}
+.cid-sNA7uLhphz .currentcost {
+  color: #232323;
+}
+.cid-sNA7uLhphz .card-wrapper {
+  border-radius: 4px;
+  background: #ffffff;
+}
+@media (min-width: 992px) {
+  .cid-sNA7uLhphz .text-box {
+    padding: 2rem;
+    padding-right: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-sNA7uLhphz .text-box {
+    padding: 2rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-sNA7uLhphz .text-box {
+    padding: 1rem;
+  }
+}
+.cid-sNA7uLhphz .image-wrapper img {
+  width: 100%;
+  object-fit: cover;
+}
 .cid-sNrgLYrh9R {
   padding-top: 1rem;
   padding-bottom: 1rem;
